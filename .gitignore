@@ -1,3 +1,7 @@
+#vim sawp files
+*.s*
+
+
 # Prerequisites
 *.d
 
